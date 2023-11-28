@@ -109,32 +109,28 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: HARINI R
+RegisterNumber:  23000779
 */
-
-
-
-
-
+![CODE SRFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/a161d7b9-f02c-4754-9be7-fec1acec8c4b)
+![WAVE FORM SRFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/65a076fb-7729-47b9-aa27-9027176b2ff6)
+![CODE DFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/9a711212-9f45-4bd7-9a47-6d765dd4360e)
+![WAVE FORM DFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/fe39c500-509b-45d3-a8ee-f35357729eb2)
+![CODE JKFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/c4eee5c1-cca7-4a63-8a9f-9506176e3681)
+![WAVE FORM JKFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/cab86fc7-e10f-4d89-acab-76eec67ba7da)
+![CODE TFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/78297c04-116b-4206-b48d-6c66fc8803d2)
+![WAVE FORM TFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/ac238bb1-fc64-418b-aa11-1cd2a9d04208)
 
 ### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
+![LOGIC DIAGRAM SRFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/9403d6eb-98b7-4a56-a2b7-a6dc65aa8d42)
+![LOGIC DIAGRAM DFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/ea13d760-9934-41e2-b8da-d78a76b958c6)
+![LOGIC DIAGRAM JKFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/b0c1424c-b694-4060-90c7-5db6c9ae5a9b)
+![LOGIC DIAGRAM TFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/82f9b95c-45a7-47f5-b47e-d47aabcd69be)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
+![TIMING DIAGRAM SRFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/80ce7031-3411-49e7-abb8-791c7a1f264f)
+![TIMING DIAGRAM DFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/349e1014-2bdf-48e8-b031-e783829e52e9)
+![TIMING DIAGRAM JKFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/f07afcf3-cbef-4350-a97c-1d8ace575cb9)
+![TIMING DIAGRAM  TFPFP](https://github.com/raja-harini/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037372/2fcf4029-484c-4fe5-aaf0-d32fff458372)
 
 ### RESULTS 
